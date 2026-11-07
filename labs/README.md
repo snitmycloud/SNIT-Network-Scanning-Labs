@@ -19,7 +19,7 @@ This section contains hands-on exercises designed to help students understand ne
 | 09 | [Nmap Evasion Concepts & Traffic Analysis](09_nmap_evasion_traffic_analysis/README.md) | Timing profiles, packet analysis |
 | 10 | [Scanning Assessment & Report Generation](10_scanning_assessment_report_generation/README.md) | Complete scanning assessment, reporting |
 
-## Recommended Learning Sequence
+## Recommended Learning Sequence 
 
 Complete the labs in numerical order.
 
