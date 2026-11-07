@@ -170,3 +170,24 @@ GitHub: https://github.com/snitmycloud
 Project: SNIT Network Scanning Labs
 
 **Learn. Practice. Analyze. Secure.**
+
+## 📚 Student Resources
+
+Useful resources for students and trainers:
+
+- [Practical Lab Index](labs/README.md)
+- [Student Assessment Checklist](STUDENT_ASSESSMENT.md)
+- [Troubleshooting Guide](TROUBLESHOOTING.md)
+
+## 🎯 Learning Path
+
+Follow the practical labs in numerical order, complete each exercise, capture screenshots, and maintain your scan reports.
+
+## 📋 Student Guidelines
+
+1. Complete all practical exercises in the specified order.
+2. Use only authorized lab targets.
+3. Save Nmap scan results.
+4. Maintain screenshots of practical activities.
+5. Submit the final scanning assessment report.
+6. Review the troubleshooting guide whenever you encounter lab issues.
