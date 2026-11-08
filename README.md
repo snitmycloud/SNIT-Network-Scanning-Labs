@@ -178,6 +178,8 @@ Useful resources for students and trainers:
 - [Practical Lab Index](labs/README.md)
 - [Student Assessment Checklist](STUDENT_ASSESSMENT.md)
 - [Troubleshooting Guide](TROUBLESHOOTING.md)
+- [Nmap Command Cheat Sheet](NMAP_CHEATSHEET.md) 
+
 
 ## 🎯 Learning Path
 
